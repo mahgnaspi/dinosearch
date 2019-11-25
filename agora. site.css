@@ -1,0 +1,72 @@
+body{
+	font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	background-color:#040303; 
+	homepage:"https://pedroulysses.github.io/Dino-Search/";
+
+}
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color:#ffffff;
+	whidth:100%;
+	box-shadow: 2px 2px 2px 2px #333333;
+	
+}
+li{
+	float: right;
+}
+li a{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	
+}
+li a:hover{
+	background-color:#333333;
+}
+*{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+
+div.a{
+	text-align: center;
+	backface-visibility: 25%;
+	background-color:#040303;
+}
+
+
+div.d{
+ text-align: center;
+}
+
+div.f{
+	backface-visibility: 25%;
+	background-color:#363434;
+	color: #F5F5F5;
+	margin-left: 40px;
+	margin-right: 40px;
+	width: 100%;
+}
+.planetinhA
+{
+  float: left;
+  margin-left:3%;
+  width: 45%;
+  height:45%
+}
+.B
+{
+  float: right;
+  margin-left:3%;
+  width: 45%;
+  height:45%
+}
+
+.o
+{
+	background-color:#333333; 
+}
